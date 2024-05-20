@@ -1,6 +1,6 @@
 Olá me chamo Matheus. Sou estudante de Graduação em Bacharelado em Sistemas de Informação.
 Tenho conhecimentos e cursos em Python e atualmente estou estudando COBOL e FLUTTER.
-Possuo familiriadade com a língua portuguesa e Inglesa.Porém,atualmente estudo alemão.
+Possuo familiaridade com a língua portuguesa e Inglesa.Porém,atualmente estudo alemão.
 
 
 <!---

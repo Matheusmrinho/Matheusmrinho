@@ -1,9 +1,9 @@
-# Matheus Rinho - Bacharelado em Sistemas de Informação
+# Matheus Marinho - Bacharelado em Sistemas de Informação
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Matheusmrinho)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/Matheusmrinho)
 
-Olá! Sou **Matheus Rinho**, estudante de **Bacharelado em Sistemas de Informação** e desenvolvedor com experiência em **Python**, **Flutter** e **Machine Learning**. Tenho paixão por tecnologia e uma trajetória marcada por projetos que buscam soluções otimizadas e eficientes.
+Olá! Sou **Matheus Marinho**, estudante de **Bacharelado em Sistemas de Informação** e desenvolvedor com experiência em **Python**, **Flutter** e **Machine Learning**. Tenho paixão por tecnologia e uma trajetória marcada por projetos que buscam soluções otimizadas e eficientes.
 
 ## Tecnologias & Habilidades
 - **Linguagens**: Python, COBOL, Dart (Flutter), SQL

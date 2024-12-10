@@ -5,11 +5,11 @@
 
 ## 🇧🇷 Português
 
-Olá! Sou **Matheus Marinho**, estudante de **Bacharelado em Sistemas de Informação** e desenvolvedor com experiência em **Python**, **Flutter** e **Machine Learning**. Tenho paixão por tecnologia e uma trajetória marcada por projetos que buscam soluções otimizadas e eficientes.
+Olá! Sou **Matheus Marinho**, estudante de **Bacharelado em Sistemas de Informação** e desenvolvedor com experiência em **Python**, **Flutter**,**Node.JS** ,**JavaScript** e **Machine Learning**. Tenho paixão por tecnologia e uma trajetória marcada por projetos que buscam soluções otimizadas e eficientes.
 
 ### Tecnologias & Habilidades
-- **Linguagens**: Python, COBOL, Dart (Flutter), SQL
-- **Frameworks**: Flutter, Kivy, Streamlit
+- **Linguagens**: Python, COBOL, Dart (Flutter), SQL, JavaScript.
+- **Frameworks**: Flutter, Kivy, Streamlit,React(Native)
 - **Machine Learning**: Aplicações em classificação, regressão e otimização de algoritmos genéticos
 - **Banco de Dados**: MySQL, PostgreSQL, CRUD e otimização de consultas
 - **Metodologias**: Desenvolvimento ágil, versionamento com Git e GitHub
@@ -35,11 +35,11 @@ Olá! Sou **Matheus Marinho**, estudante de **Bacharelado em Sistemas de Informa
 
 ## 🇺🇸 English
 
-Hello! I'm **Matheus Marinho**, an **Information Systems** student and a developer with experience in **Python**, **Flutter**, and **Machine Learning**. I have a passion for technology and a track record of projects aimed at delivering optimized and efficient solutions.
+Hello! I'm **Matheus Marinho**, an **Information Systems** student and a developer with experience in **Python**, **Flutter**,**Node.JS**, **JavaScript** and **Machine Learning**. I have a passion for technology and a track record of projects aimed at delivering optimized and efficient solutions.
 
 ### Technologies & Skills
-- **Languages**: Python, COBOL, Dart (Flutter), SQL
-- **Frameworks**: Flutter, Kivy, Streamlit
+- **Languages**: Python, COBOL, Dart (Flutter), SQL, JavaScript
+- **Frameworks**: Flutter, Kivy, Streamlit, React(Native)
 - **Machine Learning**: Applications in classification, regression, and optimization of genetic algorithms
 - **Databases**: MySQL, PostgreSQL, CRUD operations, and query optimization
 - **Methodologies**: Agile development, Git version control, and GitHub workflows
